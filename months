@@ -5,30 +5,30 @@
 
 def monthString(monthNum):
       monthNum  = ''
-      if month == '1':
+      if num == '1':
             monthNum = 'january'
-      elif month == '2':
+      elif num == '2':
             monthNum = 'february'
-      elif month == '3':
+      elif num == '3':
             monthNum = 'march'
-      elif month == '4':
+      elif num == '4':
             monthNum = 'april'
-      elif month == '5':
+      elif num == '5':
             monthNum = 'may'
-      elif month == '6':
+      elif num == '6':
             monthNum = 'june'
-      elif month == '7':
+      elif num == '7':
             monthNum = 'july'
-      elif month == '8':
+      elif num == '8':
             monthNum = 'august'
-      elif month == '9':
+      elif num == '9':
             monthNum = 'sep'
-      elif month == '10':
+      elif num == '10':
             monthNum = 'october'
-      elif month == '11':
+      elif num == '11':
             monthNum = 'november'
-      elif month == '12':
-            monthNum ='december'
+      elif num == '12':
+            monthNum = 'december'
             
      
      monthString = ""
