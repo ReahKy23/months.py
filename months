@@ -6,29 +6,29 @@
 def monthString(monthNum):
       monthNum  = ''
       if month == '1':
-          num_month = 'jan'
+         monthNum = 'jan'
       elif month == '2':
-          num_month = 'feb'
+         monthNum = 'feb'
       elif month == '3':
-         num_month = 'mar'
+         monthNum = 'mar'
       elif month == '4':
-          num_month = 'apr'
+          monthNum = 'apr'
       elif month == '5':
-           num_month = 'may'
+          monthNum = 'may'
       elif month == '6':
-          num_month = 'june'
+          monthNum = 'june'
       elif month == '7':
-          num_month = 'july'
+          monthNum = 'july'
       elif month == '8':
-         num_month = 'aug'
+         monthNum = 'aug'
       elif month == '9':
-        num_month = 'sep'
+        monthNum = 'sep'
       elif month == '10':
-        num_month = 'oct'
+        monthNum = 'oct'
       elif month == '11':
-        num_month = 'nov'
+        monthNum = 'nov'
       elif month == '12':
-          num_month ='dec'
+        monthNum ='dec'
       return num_month
         
      
